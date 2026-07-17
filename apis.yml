@@ -1,0 +1,81 @@
+aid: first-round-capital
+name: First Round Capital
+description: >-
+  First Round Capital is a seed-stage venture capital firm founded in 2004 by
+  Josh Kopelman and Howard Morgan, headquartered in San Francisco with offices
+  in New York and Philadelphia. First Round invests almost exclusively at the
+  earliest stages of company creation, typically writing lead checks in the
+  $750K to $4M range, and partners (many of them former founders) work
+  side-by-side with companies through their first few years. The firm is a
+  generalist that seeks contrarian insight into how markets work, with concentration
+  in enterprise software, AI, fintech, healthcare, hardware, and consumer. Since
+  founding it has backed 500+ startups and was the first institutional investor in
+  Uber; its portfolio includes Notion, Roblox, Square, Looker, Upstart, Verkada,
+  Warby Parker, Flatiron Health, and Clay. First Round also runs The Review, a
+  widely read operator-focused editorial publication, and self-reports roughly
+  $2.5B in assets under management.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://firstround.com/favicon.ico
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Developer Tools
+  - Enterprise Software
+  - Artificial Intelligence
+  - Fintech
+  - Healthcare
+  - Consumer
+  - North America
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://firstround.com/
+  - type: Portfolio
+    url: https://firstround.com/companies
+  - type: Portfolio
+    url: portfolio/first-round-capital-portfolio.yml
+  - type: Team
+    url: https://firstround.com/team
+  - type: Team
+    url: team/first-round-capital-team.yml
+  - type: InvestmentThesis
+    url: https://firstround.com/how-we-work
+  - type: Blog
+    url: https://review.firstround.com/
+  - type: Jobs
+    url: https://jobs.firstround.com/talent-network/login
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/first-round-capital
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/first-round-capital
+  - type: Twitter
+    url: https://x.com/firstround
+  - type: Features
+    data:
+      - 'Stage: Seed (early-stage focus, occasional Series A)'
+      - 'Typical check: $750K-$4M (lead)'
+      - 'Sectors: enterprise software, AI, fintech, healthcare, hardware, consumer'
+      - 'Geography: primarily North America'
+      - 'AUM: ~$2.5B (self-reported / third-party sources)'
+      - 'Founded: 2004'
+      - 'Founders: Josh Kopelman, Howard Morgan'
+      - 'HQ: San Francisco, CA (offices in New York and Philadelphia)'
+      - 'Portfolio: 500+ startups backed since 2004'
+    sources:
+      - https://firstround.com/
+      - https://firstround.com/how-we-work
+      - https://en.wikipedia.org/wiki/First_Round_Capital
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: https://apisjson.org
+  - FN: First Round Capital
+    url: https://firstround.com/

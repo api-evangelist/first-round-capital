@@ -1,0 +1,18 @@
+generated: '2026-07-17'
+method: searched
+source: https://firstround.com/team
+type: Team
+members:
+  - name: Josh Kopelman
+    role: Founder / Managing Partner
+    twitter: https://x.com/joshk
+  - name: Howard Morgan
+    role: Co-Founder
+  - name: Bill Trenchard
+    role: Partner
+  - name: Brett Berson
+    role: Partner
+  - name: Todd Jackson
+    role: Partner
+  - name: Liz Wessel
+    role: Partner

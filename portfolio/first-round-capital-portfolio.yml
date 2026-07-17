@@ -1,0 +1,274 @@
+generated: '2026-07-17'
+method: searched
+source: https://firstround.com/companies
+summary:
+  portfolio_total: 25
+  in_network: 12
+  api_providers: 10
+  missing: 13
+  stubs_created: 0
+companies:
+- name: Notion
+  url: https://www.notion.so
+  description: All-in-one workspace to write, plan, and collaborate, with AI features.
+  sector: enterprise-software
+  stage: seed
+  status: active
+  lead: true
+  source: https://www.firstround.com/companies/notion
+  slug: notion
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Clay
+  url: https://clay.run
+  description: Go-to-market development environment for data enrichment and automated outreach.
+  sector: enterprise-software
+  stage: seed
+  status: active
+  source: https://www.firstround.com/companies/clay
+  slug: clay
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Pomelo Care
+  url: https://www.pomelocare.com
+  description: Virtual value-based medical practice improving maternal and newborn health.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.firstround.com/companies/pomelo-care
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pomelo-care
+- name: Roblox
+  url: https://www.roblox.com
+  description: Online platform and marketplace for user-generated immersive games and experiences.
+  sector: consumer
+  stage: growth
+  status: ipo
+  source: https://www.firstround.com/companies/roblox
+  slug: roblox
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: K2 Space
+  url: https://www.k2space.com
+  description: Builds massive high-powered satellites for national security and commercial missions.
+  sector: hardware
+  stage: seed
+  status: active
+  source: https://www.firstround.com/companies/k2space
+  in_network: false
+  is_api_provider: false
+  suggested_slug: k2-space
+- name: Looker
+  url: https://looker.com
+  description: Business intelligence and data analytics platform (acquired by Google).
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://www.firstround.com/companies/looker
+  slug: looker
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fal
+  url: https://fal.ai
+  description: Generative media inference platform for developers.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.firstround.com/companies/fal
+  slug: fal-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Loyal
+  url: https://loyal.com
+  description: Clinical-stage animal health company developing longevity drugs for dogs.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.firstround.com/companies/loyal
+  in_network: false
+  is_api_provider: false
+  suggested_slug: loyal
+- name: Upstart
+  url: https://www.upstart.com
+  description: AI lending marketplace connecting consumers with banks and credit unions.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://www.firstround.com/companies/upstart
+  in_network: false
+  is_api_provider: false
+  suggested_slug: upstart
+- name: Verkada
+  url: https://www.verkada.com
+  description: Cloud-managed enterprise physical security cameras and building systems.
+  sector: hardware
+  stage: growth
+  status: active
+  source: https://www.firstround.com/companies/verkada
+  in_network: false
+  is_api_provider: false
+  suggested_slug: verkada
+- name: EvolutionIQ
+  url: https://evolutioniq.com
+  description: AI platform for disability and injury insurance claims guidance.
+  sector: ai
+  stage: series-a
+  status: acquired
+  source: https://www.firstround.com/companies/evolutioniq
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evolutioniq
+- name: Uber
+  url: https://www.uber.com
+  description: Global ride-hailing, delivery, and mobility platform.
+  sector: consumer
+  stage: growth
+  status: ipo
+  lead: true
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  slug: uber
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Square
+  url: https://squareup.com
+  description: Payments and financial services for merchants (part of Block).
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  slug: block
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AppNexus
+  url: https://www.appnexus.com
+  description: Programmatic online advertising exchange and technology (acquired by AT&T).
+  sector: adtech
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: appnexus
+- name: Mint
+  url: https://www.mint.com
+  description: Personal finance and budgeting service (acquired by Intuit, later shut down).
+  sector: fintech
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mint
+- name: Flatiron Health
+  url: https://flatiron.com
+  description: Oncology-focused healthcare technology and real-world evidence (acquired by Roche).
+  sector: healthcare
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flatiron-health
+- name: Ring
+  url: https://ring.com
+  description: Smart home video doorbells and security devices (acquired by Amazon).
+  sector: hardware
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ring
+- name: Clover Health
+  url: https://www.cloverhealth.com
+  description: Technology-driven Medicare Advantage health insurance provider.
+  sector: healthcare
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clover-health
+- name: SingleStore
+  url: https://www.singlestore.com
+  description: Distributed real-time SQL database for transactions and analytics.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  slug: singlestore
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Warby Parker
+  url: https://www.warbyparker.com
+  description: Direct-to-consumer eyewear brand and retailer.
+  sector: consumer
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: warby-parker
+- name: Together AI
+  url: https://www.together.ai
+  description: Cloud platform for training and running open-source generative AI models.
+  sector: ai
+  stage: series-a
+  status: active
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  slug: ai-gateway
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Flexport
+  url: https://www.flexport.com
+  description: Technology platform for global freight forwarding and supply chain logistics.
+  sector: logistics
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  slug: flexport
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stedi
+  url: https://www.stedi.com
+  description: Programmable healthcare clearinghouse with modern EDI and eligibility APIs.
+  sector: fintech
+  stage: series-b
+  status: active
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  slug: stedi
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Reducto
+  url: https://reducto.ai
+  description: Agentic document processing and ingestion platform for AI teams.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  slug: reducto
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Rillet
+  url: https://www.rillet.com
+  description: AI-native ERP that automates month-end close and revenue recognition.
+  sector: enterprise-software
+  stage: series-a
+  status: active
+  source: https://en.wikipedia.org/wiki/First_Round_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rillet
