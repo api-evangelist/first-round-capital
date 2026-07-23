@@ -3,9 +3,9 @@ method: searched
 source: https://firstround.com/companies
 summary:
   portfolio_total: 25
-  in_network: 12
-  api_providers: 10
-  missing: 13
+  in_network: 25
+  api_providers: 12
+  missing: 0
   stubs_created: 0
 companies:
 - name: Notion
@@ -38,9 +38,10 @@ companies:
   stage: seed
   status: active
   source: https://www.firstround.com/companies/pomelo-care
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pomelo-care
+  slug: pomelo-care
+  matched_by: domain
 - name: Roblox
   url: https://www.roblox.com
   description: Online platform and marketplace for user-generated immersive games and experiences.
@@ -59,9 +60,10 @@ companies:
   stage: seed
   status: active
   source: https://www.firstround.com/companies/k2space
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: k2-space
+  slug: k2-space
+  matched_by: domain
 - name: Looker
   url: https://looker.com
   description: Business intelligence and data analytics platform (acquired by Google).
@@ -91,9 +93,10 @@ companies:
   stage: seed
   status: active
   source: https://www.firstround.com/companies/loyal
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: loyal
+  slug: loyal
+  matched_by: domain
 - name: Upstart
   url: https://www.upstart.com
   description: AI lending marketplace connecting consumers with banks and credit unions.
@@ -101,9 +104,10 @@ companies:
   stage: growth
   status: ipo
   source: https://www.firstround.com/companies/upstart
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: upstart
+  slug: upstart
+  matched_by: domain
 - name: Verkada
   url: https://www.verkada.com
   description: Cloud-managed enterprise physical security cameras and building systems.
@@ -111,9 +115,10 @@ companies:
   stage: growth
   status: active
   source: https://www.firstround.com/companies/verkada
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: verkada
+  slug: verkada
+  matched_by: domain
 - name: EvolutionIQ
   url: https://evolutioniq.com
   description: AI platform for disability and injury insurance claims guidance.
@@ -121,9 +126,10 @@ companies:
   stage: series-a
   status: acquired
   source: https://www.firstround.com/companies/evolutioniq
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: evolutioniq
+  slug: evolutioniq
+  matched_by: domain
 - name: Uber
   url: https://www.uber.com
   description: Global ride-hailing, delivery, and mobility platform.
@@ -154,9 +160,10 @@ companies:
   stage: growth
   status: acquired
   source: https://en.wikipedia.org/wiki/First_Round_Capital
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: appnexus
+  slug: appnexus
+  matched_by: domain
 - name: Mint
   url: https://www.mint.com
   description: Personal finance and budgeting service (acquired by Intuit, later shut down).
@@ -164,9 +171,10 @@ companies:
   stage: growth
   status: acquired
   source: https://en.wikipedia.org/wiki/First_Round_Capital
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mint
+  slug: mint
+  matched_by: domain
 - name: Flatiron Health
   url: https://flatiron.com
   description: Oncology-focused healthcare technology and real-world evidence (acquired by Roche).
@@ -174,9 +182,10 @@ companies:
   stage: growth
   status: acquired
   source: https://en.wikipedia.org/wiki/First_Round_Capital
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flatiron-health
+  slug: flatiron-health
+  matched_by: domain
 - name: Ring
   url: https://ring.com
   description: Smart home video doorbells and security devices (acquired by Amazon).
@@ -184,9 +193,10 @@ companies:
   stage: growth
   status: acquired
   source: https://en.wikipedia.org/wiki/First_Round_Capital
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ring
+  slug: ring
+  matched_by: domain
 - name: Clover Health
   url: https://www.cloverhealth.com
   description: Technology-driven Medicare Advantage health insurance provider.
@@ -194,9 +204,10 @@ companies:
   stage: growth
   status: ipo
   source: https://en.wikipedia.org/wiki/First_Round_Capital
-  in_network: false
-  is_api_provider: false
-  suggested_slug: clover-health
+  in_network: true
+  is_api_provider: true
+  slug: clover-health
+  matched_by: domain
 - name: SingleStore
   url: https://www.singlestore.com
   description: Distributed real-time SQL database for transactions and analytics.
@@ -215,9 +226,10 @@ companies:
   stage: growth
   status: ipo
   source: https://en.wikipedia.org/wiki/First_Round_Capital
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: warby-parker
+  slug: warby-parker
+  matched_by: domain
 - name: Together AI
   url: https://www.together.ai
   description: Cloud platform for training and running open-source generative AI models.
@@ -269,6 +281,7 @@ companies:
   stage: series-a
   status: active
   source: https://en.wikipedia.org/wiki/First_Round_Capital
-  in_network: false
-  is_api_provider: false
-  suggested_slug: rillet
+  in_network: true
+  is_api_provider: true
+  slug: rillet
+  matched_by: domain
