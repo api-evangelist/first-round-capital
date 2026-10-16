@@ -2,6 +2,20 @@
   "repo": "first-round-capital",
   "feeds": [
     {
+      "source": "https://www.firstround.com/news",
+      "feed_url": "https://www.firstround.com/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://review.firstround.com/",
+      "feed_url": "https://review.firstround.com/glossary/rss/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
       "source": "https://firstround.com/how-we-work",
       "feed_url": "https://firstround.com/how-we-work",
       "title": "",
@@ -10,5 +24,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
