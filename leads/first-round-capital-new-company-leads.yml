@@ -1,4 +1,11 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: first-round-capital
-leads: []
+leads:
+- name: Clay
+  url: https://clay.run
+  suggested_slug: clay
+  sector: enterprise-software
+  source_vc: first-round-capital
+  source: https://www.firstround.com/companies/clay
+  stub_created: false

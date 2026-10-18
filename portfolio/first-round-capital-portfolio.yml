@@ -3,9 +3,9 @@ method: searched
 source: https://firstround.com/companies
 summary:
   portfolio_total: 25
-  in_network: 25
+  in_network: 24
   api_providers: 12
-  missing: 0
+  missing: 1
   stubs_created: 0
 companies:
 - name: Notion
@@ -27,10 +27,9 @@ companies:
   stage: seed
   status: active
   source: https://www.firstround.com/companies/clay
-  slug: clay
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: clay
 - name: Pomelo Care
   url: https://www.pomelocare.com
   description: Virtual value-based medical practice improving maternal and newborn health.
