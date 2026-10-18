@@ -2,8 +2,8 @@ generated: '2026-07-17'
 method: searched
 source: https://firstround.com/companies
 summary:
-  portfolio_total: 25
-  in_network: 24
+  portfolio_total: 27
+  in_network: 26
   api_providers: 12
   missing: 1
   stubs_created: 0
@@ -284,3 +284,17 @@ companies:
   is_api_provider: true
   slug: rillet
   matched_by: domain
+- name: Promise
+  source: https://firstround.com/companies
+  x-added: '2026-10-18'
+  slug: promise
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Alma
+  source: https://firstround.com/companies
+  x-added: '2026-10-18'
+  slug: alma
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
