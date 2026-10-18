@@ -290,11 +290,15 @@ companies:
   slug: promise
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.promise-pay.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Alma
   source: https://firstround.com/companies
   x-added: '2026-10-18'
   slug: alma
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.tryalma.com
+  x-url-source: network-repo (title-verified 2026-10-18)
